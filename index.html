@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Akan</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+    <link rel="stylesheet" href="css/css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <script src="js/akan.js"></script>
+ <div class="container">
+    <div class="div">
+      
+        <div> <br><h1> Akan</h1>
+        <p> The Akan is Ghanian's culture of maning their children according to their gender and date of bith.In Ghana, children are 
+          given their first name as a 'day name' which corresponds to the day in the week they were born.
+          This website that takes 
+          a user's birthday and calculates the day of the week they were born and then depending on their gender 
+          outputs their Akan Name.
+          You can also be part of The Akan people and embrace their vast culture. <br> By filling the form
+          you can be able to know your Akan name.Please enter the required credentials:
+       </p></div>
+       <div class="row ghanaian-names">
+        <div class="col-md-6">
+          <h4><i class="fa fa-male"></i>&nbsp;&nbsp; Male</h4>
+          <ul class="fs11">
+            <li>Sunday: Kwasi</li>
+            <li>Monday: Kwadwo</li>
+            <li>Tuesday: Kwabena</li>
+            <li>Wednesday: Kwaku</li>
+            <li>Thursday:  Yaw</li>
+            <li>Friday: Kofi</li>
+            <li>Saturday: Kwame</li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <h4><i class="fa fa-female"></i>&nbsp;&nbsp;Female</h4>
+          <ul class="fs11">
+            <li>Sunday: Akosua</li>
+            <li>Monday: Adwoa</li>
+            <li>Tuesday: Abenaa</li>
+            <li>Wednesday: Akua</li>
+            <li>Thursday:  Yaa</li>
+            <li>Friday: Afua</li>
+            <li>Saturday: Ama</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      
+  <div class="enter">
+    
+    <div class="form">
+      <form>
+              
+        <table>
+          <p>Please fill out this form so that you can get to know the  <strong>Day you was born on
+             </strong> and <strong><em id="one"> Your </em> <em id="two"> Akan </em> <em id="three">name</em></strong></p>
+        <p>Day  : <input TYPE="text" NAME="day" SIZE="2"> </p>
+        <p>Month: <input TYPE="text" NAME="month" SIZE="2"> </p>
+        <p>Year : <input TYPE="text" NAME="year" SIZE="4"> </p>    
+        <h6><u><b>GENDER</b></h6></u></h>
+        <div class="button">
+        <p><input type="button" value="Male"  ONCLICK="compute(this.form)"></p>
+        </div> 
+        <p><input type="button" value="Female" ONCLICK="tomm(this.form)"></p>
+        <p>Date of Birth: <input TYPE="text" NAME="result1" SIZE="18"> </p>
+        <p>Akan Name: <input TYPE="text" NAME="result2" SIZE="18"> </p>
+        </table>
+      </form>
+    </div>
+  </div>
+</body>
+</html>

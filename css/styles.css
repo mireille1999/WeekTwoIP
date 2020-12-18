@@ -1,0 +1,103 @@
+body {
+    background-color: lightblue;    
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    font-family:Safia;
+    height: 100vh;
+    background-repeat: repeat-y;
+    margin: 0%;
+    padding: 0%;
+}
+h4{
+    font-size: larger;
+    color: rgb(3, 3, 3);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.jumbotron{
+    border-radius:0 0 4% 4% ;
+    color:white;
+    font-family: cursive;
+    font-size:20px;
+    background: rgb(49, 47, 47);
+}
+.form{
+    width: 300px;
+    padding: 0 0;
+    margin: 0
+}
+.enter{
+    background: rgb(248, 245, 245);
+    color: rgb(2, 2, 2);
+    max-width: 360px;
+    margin: 0% auto 100px;
+    padding: 70px 30px;
+    text-align: center;
+    position: relative;
+    font-family: cursive;
+    float: right;
+    transform: translate(-50% -50%);
+    top: 0%;
+    margin-right: 170px;
+}
+.div{
+    position: relative;
+    z-index: -1;
+    background: rgb(248, 245, 245);
+    color: rgb(2, 2, 2);
+    max-width: 600px;
+    margin: 0% auto 100px;
+    padding: 70px 30px;
+    text-align: left;
+    position: relative;
+    font-family: Safia;
+    font-size: 23px;
+    transform: translate(-50% -50%);
+    top: 0%;
+    float:left;
+    margin-left: 64px;
+    max-height: 1500;
+}
+.form input{
+    font-family: "Roboto", sans-serif;
+    outline: 1;
+    background: skyblue;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+h4{
+    margin: 0%;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 18px;
+}
+.form input[type="text"]{
+    border: none;
+    border-bottom: 1px solid rgb(42, 199, 238);
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: rgb(8, 8, 8);
+    font-size: 16px;
+}
+.form input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #ffc107;
+    color: rgb(7, 6, 6);
+    font-size: 15px;
+    border-radius: 20px;
+}
+.form input[type="submit"]:hover{
+    cursor: pointer;
+    background: #f70323;
+    color: #000;
+}
+#one{ color:Red}
+#two{ color:yellow}
+#three{ color:green}
