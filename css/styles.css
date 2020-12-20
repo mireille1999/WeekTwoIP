@@ -98,6 +98,22 @@ h4{
     background: #f70323;
     color: #000;
 }
+.footer {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:lightblue;
+    color: rgb(5, 5, 5);
+    text-align: center;
+  }
+  .footer-social-icon a {
+	color: white;
+	font-size: 3rem;
+	margin: .4rem;
+	display: inline-block;
+}
+
 #one{ color:Red}
 #two{ color:yellow}
 #three{ color:green}
