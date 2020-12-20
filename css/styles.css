@@ -3,11 +3,7 @@ body {
     text-align: center;
     background-size: cover;
     background-position: center;
-<<<<<<< HEAD
     font-family: Safia;
-=======
-    font-family:San-serif;
->>>>>>> 91a61d4a36db558d0493ce13e336c66d5df48207
     height: 100vh;
     background-repeat: repeat-y;
     margin: 0%;
@@ -54,7 +50,7 @@ h4{
     padding: 70px 30px;
     text-align: left;
     position: relative;
-    font-family: San-serif;
+    font-family: Safia;
     font-size: 23px;
     transform: translate(-50% -50%);
     top: 0%;
@@ -105,3 +101,10 @@ h4{
 #one{ color:Red}
 #two{ color:yellow}
 #three{ color:green}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    color: black;
+    text-align: center;}
