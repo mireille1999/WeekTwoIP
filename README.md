@@ -1,5 +1,5 @@
 # Akan
-#### This is my digital portfolio which state my education background and Projects I worked on ,  11 December 2020
+#### This is website which tells user his or her Akan name and their date of birth , 18 December 2020
 #### By **Mireille Muhawenimana**
 ## Description
 In this website, they are three sections, the about me section which states about me,my education background and my interests outside school and coding. 
