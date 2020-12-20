@@ -6,7 +6,7 @@ In this website, they are  two parts, the introduction part which tells about Ak
 ## Technologies Used
  the languages and tools you used to create this website are   Java ,HTML and CSS.
 ## Live link
-https://mireille1999.github.io/MireillePortfolio/
+https://mireille1999.github.io/WeekTwoIP/
 ## Support and contact details
  If you run into any issues or have questions, please feel free to contact me on my email mireille1999@gmail.com
 ### License
