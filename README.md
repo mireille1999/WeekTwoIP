@@ -8,6 +8,6 @@ In this website, they are  two parts, the introduction part which tells about Ak
 ## Live link
 https://mireille1999.github.io/MireillePortfolio/
 ## Support and contact details
- if you run into any issues or have questions, please feel free to contact me on my email mireille1999@gmail.com
+ If you run into any issues or have questions, please feel free to contact me on my email mireille1999@gmail.com
 ### License
 Copyright (c) 2020 **Mireille Muhawenimana**
