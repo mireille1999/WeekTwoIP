@@ -101,10 +101,3 @@ h4{
 #one{ color:Red}
 #two{ color:yellow}
 #three{ color:green}
-.footer {
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: lightblue;
-    color: black;
-    text-align: center;}
